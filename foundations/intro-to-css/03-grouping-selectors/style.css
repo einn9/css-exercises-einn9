@@ -1,0 +1,13 @@
+.unique1 {
+    background-color: rgba(0, 0, 0, 1);
+    color: hsl(0, 0%, 100%);
+}
+
+.unique2 {
+    background-color: #f1ff2a;
+}
+
+.unique1, .unique2{
+    font-size: 28px;
+    font-style: Helvetica, "Times New Roman", sans-serif;
+}
